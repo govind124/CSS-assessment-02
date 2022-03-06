@@ -1,0 +1,166 @@
+body{
+    background-image: url(./WhatsApp\ Image\ 2022-03-04\ at\ 12.12.05\ AM.jpeg);
+}
+.item1{
+    display: inline-block;
+    position: absolute;
+    top: 25px;
+    left: 10vw;
+    color: white;
+    width: 400px;
+    height: 50px;
+    border: 5px solid red;
+    border-radius: 20px;
+   padding: 20px 10px 0px 10px;
+    background-color: black;
+    font-size: 20px;
+    font-style: italic;
+    text-align: left;
+}
+.item2{
+    display: inline-block;
+    position: absolute;
+    top: 25px;
+    left: 45vw;
+    color: white;
+    width: 250px;
+    height: 45px;
+    border: 5px solid red;
+    border-radius: 20px;
+   padding: 20px 10px 0px 10px;
+    background-color: black;
+    font-size: 20px;
+    font-style: italic;
+    text-align: left;
+
+}
+.item3{
+    display: inline-block;
+    position: absolute;
+    top: 25px;
+    left: 80vw;
+    color: white;
+    width: 250px;
+    height: 75px;
+    border: 5px solid red;
+    border-radius: 20px;
+   padding: 20px 10px 0px 10px;
+    background-color: black;
+    font-size: 20px;
+    font-style: italic;
+    text-align: left;
+
+}
+.circle{
+    margin-top: 250px;
+    background-color: aqua;
+    top: 400px;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    padding: 20px 10px 0px 10px;
+    color:black;
+    font-size: larger;
+    text-align:center;
+    border: 5px solid brown;
+}
+    
+.form{
+    position:absolute;
+    display: inline-block;
+    background-color: brown;
+    left: 40vw;
+    bottom: 5px;
+    height: 40vw;
+    width: 30vw;
+    border-style: dashed;
+}
+.menu{
+    background-color: black;
+    text-align: center;
+    color: white;
+    height: 5vw;
+    width: 20vw;
+    left: 45vw;
+    position: absolute;
+    display: inline-block;
+    border: 5px solid brown;
+    border-radius: 30%;
+    top: 50vw;
+   font-size: larger
+}
+.container{
+    display: inline-flex;
+    top: 60vw;
+    position: absolute;
+    left:20vw;
+}
+.box1{
+    background-color: turquoise;
+    display: inline-block;
+    flex-direction: row;
+    width: 250px;
+    height: 200px;
+    border: 4px solid red;
+    border-radius: 20px;
+    margin: 40px;
+    text-align: center;
+}
+.box2{
+    background-color: turquoise;
+    display: inline-block;
+    flex-direction: row;
+    width: 250px;
+    height: 200px;
+    border: 4px solid red;
+    border-radius: 20px;
+    margin: 40px;
+    text-align: center;
+}.box3{
+    background-color: turquoise;
+    display: inline-block;
+    flex-direction: row;
+    width: 250px;
+    height: 200px;
+    border: 4px solid red;
+    border-radius: 20px;
+    margin: 40px;
+    text-align: center;
+}
+.container2{
+    display: inline-flex;
+    top: 20vw;
+    position: absolute;
+   
+}
+.box4{
+    background-color: turquoise;
+    display: inline-block;
+    flex-direction: row;
+    width: 250px;
+    height: 200px;
+    border: 4px solid red;
+    border-radius: 20px;
+    margin: 40px;
+    text-align: center;
+}.box5{
+    background-color: turquoise;
+    display: inline-block;
+    flex-direction: row;
+    width: 250px;
+    height: 200px;
+    border: 4px solid red;
+    border-radius: 20px;
+    margin: 40px;
+    text-align: center;
+}.box6{
+    background-color: turquoise;
+    display: inline-block;
+    flex-direction: row;
+    width: 250px;
+    height: 200px;
+    border: 4px solid red;
+    border-radius: 20px;
+    margin: 40px;
+    text-align: center;
+}
