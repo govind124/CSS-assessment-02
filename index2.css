@@ -70,7 +70,7 @@ body{
     display: inline-block;
     background-color: brown;
     left: 40vw;
-    top: 13vw;
+    bottom: 3px;
     height: 40vw;
     width: 30vw;
     border-style: dashed;
